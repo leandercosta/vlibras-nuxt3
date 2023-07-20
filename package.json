@@ -1,6 +1,10 @@
 {
   "name": "vlibras-nuxt3",
   "version":"1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandercosta/vlibras-nuxt3"
+  },
   "main": "components/Vlibras.vue",
   "scripts": {
     "build": "nuxt build",
