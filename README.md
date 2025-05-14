@@ -1,6 +1,12 @@
 VLibras (gov.br) to Nuxt 3
 ==========================
 
+DEMO: https://vlibras-teste.vercel.app/ 🚀
+
+[![npm](https://img.shields.io/npm/v/vlibras-nuxt3)](https://www.npmjs.com/package/vlibras-nuxt3)
+[![npm](https://img.shields.io/npm/dt/vlibras-nuxt3)](https://www.npmjs.com/package/vlibras-nuxt3)
+[![GitHub issues](https://img.shields.io/github/issues/rafaelalmeidav/vlibras-nuxt3)](
+
 Mais informações sobre o [VLibras](https://vlibras.gov.br/)
 
 ### To install
